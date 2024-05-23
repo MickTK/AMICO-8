@@ -1,0 +1,1 @@
+function os.game_template.on_key_pressed(input:InputName) end
